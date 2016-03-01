@@ -1,0 +1,24 @@
+{
+  "name": "chrome-ext",
+  "version": "1.0.0",
+  "description": "chrome extensions suk",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karltaylor/chrome-extension-starter-kit.git"
+  },
+  "author": "Karl Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karltaylor/chrome-extension-starter-kit/issues"
+  },
+  "homepage": "https://github.com/karltaylor/chrome-extension-starter-kit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jade": "^1.1.0"
+  }
+}

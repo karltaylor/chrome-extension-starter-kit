@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "Yo",
+  "description": "Yo desc",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html"
+  }
+}
